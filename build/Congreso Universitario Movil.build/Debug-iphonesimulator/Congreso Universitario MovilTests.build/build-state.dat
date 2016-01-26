@@ -1,0 +1,250 @@
+TCongreso Universitario MovilTests
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004D54DEB900000000000008A5
+t1297407673
+s2213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch
+c000000004E3055C300000000000000C5
+t1311790531
+s197
+i<UIKit/UIKit.h>
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.h
+c000000004E3055C30000000000000139
+t1311790531
+s313
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.m
+c000000004E3055C30000000000000226
+t1311790531
+s550
+i"Congreso_Universitario_MovilTests.h"
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/en.lproj/InfoPlist.strings
+c000000004E3055C3000000000000002D
+t1311790531
+s45
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso Universitario MovilTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso_Universitario_MovilTests.o
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Script-BAFA0EFD13E08D4300803956.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest.dSYM
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso_Universitario_MovilTests.h
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Info.plist
+t2
+s0
+
+N/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch
+c000000004E3055C200000000000000C5
+t1311790530
+s197
+i<UIKit/UIKit.h>
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.h
+c000000004E3055C20000000000000139
+t1311790530
+s313
+i<SenTestingKit/SenTestingKit.h>
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.m
+c000000004E3055C20000000000000226
+t1311790530
+s550
+i"Congreso_Universitario_MovilTests.h"
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario MovilTests/en.lproj/InfoPlist.strings
+c000000004E3055C2000000000000002D
+t1311790530
+s45
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso Universitario MovilTests.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso_Universitario_MovilTests.o
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Script-BAFA0EFD13E08D4300803956.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest.dSYM
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso_Universitario_MovilTests.h
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Info.plist
+t2
+s0
+
+N/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004CC127E500000000000008A5
+t1287727077
+s2213
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/XCode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/var/folders/ff/ffJbZ9e7Fl8dIbxVKUGrIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Congreso Universitario MovilTests-Prefix-dnsqglvagvkmfhhhwalikixvbkgk/Congreso Universitario MovilTests-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/rU/rU7YTQ3OGkWNIySy-d-uPk+++UA/-Caches-/com.apple.Xcode.515/SharedPrecompiledHeaders/Congreso Universitario MovilTests-Prefix-hjgnbtkamphepzcxxskyaeiheemw/Congreso Universitario MovilTests-Prefix.pch.gch
+t2
+s0
+
+NCongreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist
+c000000004E3055C200000000000002B3
+t1311790530
+s691
+
+CCompileC "build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso_Universitario_MovilTests.o" "/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC "build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Objects-normal/i386/Congreso_Universitario_MovilTests.o" "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCopyStringsFile "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/en.lproj/InfoPlist.strings" "Congreso Universitario MovilTests/en.lproj/InfoPlist.strings"
+r0
+
+CCopyStringsFile "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/en.lproj/InfoPlist.strings" "Congreso Universitario MovilTests/en.lproj/InfoPlist.strings"
+r0
+
+CCpResource "build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso_Universitario_MovilTests.h" "Congreso Universitario MovilTests/Congreso_Universitario_MovilTests.h"
+r0
+
+CGenerateDSYMFile "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest.dSYM" "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests"
+r0
+
+CGenerateDSYMFile "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest.dSYM" "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests"
+r0
+
+CLd "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests" normal i386
+r0
+
+CLd "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Congreso Universitario MovilTests" normal i386
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/humbo/Desktop/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Script-BAFA0EFD13E08D4300803956.sh"
+r0
+
+CPhaseScriptExecution "Run Script" "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Congreso Universitario Movil.build/Debug-iphonesimulator/Congreso Universitario MovilTests.build/Script-BAFA0EFD13E08D4300803956.sh"
+r0
+
+CProcessInfoPlistFile "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Info.plist" "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist"
+r0
+
+CProcessInfoPlistFile "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest/Info.plist" "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist"
+r0
+
+CProcessPCH "/var/folders/ff/ffJbZ9e7Fl8dIbxVKUGrIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Congreso Universitario MovilTests-Prefix-dnsqglvagvkmfhhhwalikixvbkgk/Congreso Universitario MovilTests-Prefix.pch.gch" "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH "/var/folders/rU/rU7YTQ3OGkWNIySy-d-uPk+++UA/-Caches-/com.apple.Xcode.515/SharedPrecompiledHeaders/Congreso Universitario MovilTests-Prefix-hjgnbtkamphepzcxxskyaeiheemw/Congreso Universitario MovilTests-Prefix.pch.gch" "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CTouch "/Users/humbo/Desktop/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest"
+r0
+
+CTouch "/Users/julioguzman/Dropbox/xcode/Congreso Universitario Movil/Congreso Universitario Movil/build/Debug-iphonesimulator/Congreso Universitario MovilTests.octest"
+r0
+

@@ -1,0 +1,551 @@
+// !$*UTF8*$!
+{
+	BA4A98ED13E1E7FC000B8520 /* AcercaDeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 945}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 520}";
+		};
+	};
+	BA4A991213E1F4DC000B8520 /* AppCircusViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2805}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 688}";
+		};
+	};
+	BAFA0ED213E08D4200803956 /* Project object */ = {
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = D56F261613FF2D620008329A /* Congreso Universitario Movil */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */;
+		codeSenseManager = D56F262213FF2D800008329A /* Code sense */;
+		executables = (
+			D56F261613FF2D620008329A /* Congreso Universitario Movil */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					717,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					677,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335568181;
+			PBXWorkspaceStateSaveDate = 335568181;
+		};
+		perUserProjectItems = {
+			D507D3061400599C00D4B778 /* PlistBookmark */ = D507D3061400599C00D4B778 /* PlistBookmark */;
+			D507D3071400599C00D4B778 /* PBXTextBookmark */ = D507D3071400599C00D4B778 /* PBXTextBookmark */;
+			D507D3081400599C00D4B778 /* PBXBookmark */ = D507D3081400599C00D4B778 /* PBXBookmark */;
+			D507D3091400599C00D4B778 /* PBXBookmark */ = D507D3091400599C00D4B778 /* PBXBookmark */;
+			D507D30A1400599C00D4B778 /* PBXBookmark */ = D507D30A1400599C00D4B778 /* PBXBookmark */;
+			D507D30B1400599C00D4B778 /* PBXBookmark */ = D507D30B1400599C00D4B778 /* PBXBookmark */;
+			D507D30C1400599C00D4B778 /* PBXBookmark */ = D507D30C1400599C00D4B778 /* PBXBookmark */;
+			D507D30D1400599C00D4B778 /* PBXBookmark */ = D507D30D1400599C00D4B778 /* PBXBookmark */;
+			D507D30E1400599C00D4B778 /* PBXBookmark */ = D507D30E1400599C00D4B778 /* PBXBookmark */;
+			D507D30F1400599C00D4B778 /* PBXBookmark */ = D507D30F1400599C00D4B778 /* PBXBookmark */;
+			D507D3101400599C00D4B778 /* PBXBookmark */ = D507D3101400599C00D4B778 /* PBXBookmark */;
+			D507D3111400599C00D4B778 /* PBXBookmark */ = D507D3111400599C00D4B778 /* PBXBookmark */;
+			D507D3121400599C00D4B778 /* PBXBookmark */ = D507D3121400599C00D4B778 /* PBXBookmark */;
+			D507D3131400599C00D4B778 /* PBXBookmark */ = D507D3131400599C00D4B778 /* PBXBookmark */;
+			D507D3141400599C00D4B778 /* PBXBookmark */ = D507D3141400599C00D4B778 /* PBXBookmark */;
+			D507D3151400599C00D4B778 /* PBXBookmark */ = D507D3151400599C00D4B778 /* PBXBookmark */;
+			D507D3161400599C00D4B778 /* PBXBookmark */ = D507D3161400599C00D4B778 /* PBXBookmark */;
+			D507D3191400599C00D4B778 /* PBXBookmark */ = D507D3191400599C00D4B778 /* PBXBookmark */;
+			D507D31A1400599C00D4B778 /* PBXBookmark */ = D507D31A1400599C00D4B778 /* PBXBookmark */;
+			D507D31B1400599C00D4B778 /* PBXBookmark */ = D507D31B1400599C00D4B778 /* PBXBookmark */;
+			D507D31C1400599C00D4B778 /* PBXBookmark */ = D507D31C1400599C00D4B778 /* PBXBookmark */;
+			D507D31D1400599C00D4B778 /* PBXBookmark */ = D507D31D1400599C00D4B778 /* PBXBookmark */;
+			D507D31E1400599C00D4B778 /* PBXBookmark */ = D507D31E1400599C00D4B778 /* PBXBookmark */;
+			D507D31F1400599C00D4B778 /* PBXBookmark */ = D507D31F1400599C00D4B778 /* PBXBookmark */;
+			D507D3201400599C00D4B778 /* PBXBookmark */ = D507D3201400599C00D4B778 /* PBXBookmark */;
+			D507D3211400599C00D4B778 /* PBXBookmark */ = D507D3211400599C00D4B778 /* PBXBookmark */;
+			D507D3221400599C00D4B778 /* PBXBookmark */ = D507D3221400599C00D4B778 /* PBXBookmark */;
+			D507D3231400599C00D4B778 /* PBXBookmark */ = D507D3231400599C00D4B778 /* PBXBookmark */;
+			D507D3241400599C00D4B778 /* PBXBookmark */ = D507D3241400599C00D4B778 /* PBXBookmark */;
+			D507D3251400599C00D4B778 /* PBXBookmark */ = D507D3251400599C00D4B778 /* PBXBookmark */;
+			D507D3261400599C00D4B778 /* PBXBookmark */ = D507D3261400599C00D4B778 /* PBXBookmark */;
+			D507D3271400599C00D4B778 /* PBXBookmark */ = D507D3271400599C00D4B778 /* PBXBookmark */;
+			D507D3281400599C00D4B778 /* PBXBookmark */ = D507D3281400599C00D4B778 /* PBXBookmark */;
+			D507D3291400599C00D4B778 /* PBXBookmark */ = D507D3291400599C00D4B778 /* PBXBookmark */;
+			D507D32A1400599C00D4B778 /* PBXBookmark */ = D507D32A1400599C00D4B778 /* PBXBookmark */;
+			D507D32B1400599C00D4B778 /* PBXBookmark */ = D507D32B1400599C00D4B778 /* PBXBookmark */;
+			D507D32C1400599C00D4B778 /* PBXBookmark */ = D507D32C1400599C00D4B778 /* PBXBookmark */;
+			D507D32D1400599C00D4B778 /* PBXBookmark */ = D507D32D1400599C00D4B778 /* PBXBookmark */;
+			D507D32E1400599C00D4B778 /* PBXBookmark */ = D507D32E1400599C00D4B778 /* PBXBookmark */;
+			D507D32F1400599C00D4B778 /* PBXBookmark */ = D507D32F1400599C00D4B778 /* PBXBookmark */;
+			D507D3301400599C00D4B778 /* PBXBookmark */ = D507D3301400599C00D4B778 /* PBXBookmark */;
+			D507D3321400599C00D4B778 /* PBXBookmark */ = D507D3321400599C00D4B778 /* PBXBookmark */;
+			D507D3331400599C00D4B778 /* PBXBookmark */ = D507D3331400599C00D4B778 /* PBXBookmark */;
+			D507D3341400599C00D4B778 /* PBXBookmark */ = D507D3341400599C00D4B778 /* PBXBookmark */;
+			D507D3351400599C00D4B778 /* PBXBookmark */ = D507D3351400599C00D4B778 /* PBXBookmark */;
+			D507D3381400599C00D4B778 /* PBXTextBookmark */ = D507D3381400599C00D4B778 /* PBXTextBookmark */;
+			D507D3391400599C00D4B778 /* PBXTextBookmark */ = D507D3391400599C00D4B778 /* PBXTextBookmark */;
+			D507D33A1400599C00D4B778 /* PBXBookmark */ = D507D33A1400599C00D4B778 /* PBXBookmark */;
+			D56F273C13FF33A10008329A /* PBXBookmark */ = D56F273C13FF33A10008329A /* PBXBookmark */;
+			D56F275F13FF77E50008329A /* PBXTextBookmark */ = D56F275F13FF77E50008329A /* PBXTextBookmark */;
+			D56F276013FF77E50008329A /* PBXTextBookmark */ = D56F276013FF77E50008329A /* PBXTextBookmark */;
+			D58022B814005D3300DDED9F /* PBXBookmark */ = D58022B814005D3300DDED9F /* PBXBookmark */;
+			D58022B914005D3300DDED9F /* PBXBookmark */ = D58022B914005D3300DDED9F /* PBXBookmark */;
+			D58022BA14005D3300DDED9F /* PBXBookmark */ = D58022BA14005D3300DDED9F /* PBXBookmark */;
+			D58022BB14005D3300DDED9F /* PBXBookmark */ = D58022BB14005D3300DDED9F /* PBXBookmark */;
+			D58022BC14005D3300DDED9F /* PBXBookmark */ = D58022BC14005D3300DDED9F /* PBXBookmark */;
+			D58022BD14005D3300DDED9F /* PBXBookmark */ = D58022BD14005D3300DDED9F /* PBXBookmark */;
+			D58022BE14005D3300DDED9F /* PBXBookmark */ = D58022BE14005D3300DDED9F /* PBXBookmark */;
+			D58022E414005E4200DDED9F /* PBXBookmark */ = D58022E414005E4200DDED9F /* PBXBookmark */;
+			D58022E514005E4200DDED9F /* PBXTextBookmark */ = D58022E514005E4200DDED9F /* PBXTextBookmark */;
+			D58023111400807100DDED9F /* PBXTextBookmark */ = D58023111400807100DDED9F /* PBXTextBookmark */;
+			D58023121400807100DDED9F /* PBXBookmark */ = D58023121400807100DDED9F /* PBXBookmark */;
+			D58023131400807100DDED9F /* PBXBookmark */ = D58023131400807100DDED9F /* PBXBookmark */;
+			D5B2960014005A5D0075FD92 /* PlistBookmark */ = D5B2960014005A5D0075FD92 /* PlistBookmark */;
+		};
+		sourceControlManager = D56F262113FF2D800008329A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */ = {
+		activeExec = 0;
+		executables = (
+			D56F261613FF2D620008329A /* Congreso Universitario Movil */,
+		);
+	};
+	BAFA0EE913E08D4200803956 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 388}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	BAFA0EEE13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {895, 356}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 521}";
+		};
+	};
+	BAFA0EEF13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2244, 1065}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{82, 644}";
+		};
+	};
+	BAFA0EF413E08D4200803956 /* Congreso_Universitario_MovilViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {895, 630}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 734}";
+		};
+	};
+	BAFA0EF513E08D4200803956 /* Congreso_Universitario_MovilViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1156, 2865}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 801}";
+		};
+	};
+	BAFA0EFE13E08D4300803956 /* Congreso Universitario MovilTests */ = {
+		activeExec = 0;
+	};
+	D507D3061400599C00D4B778 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = BAFA0F0713E08D4300803956 /* Congreso Universitario MovilTests-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D507D3071400599C00D4B778 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BAFA0EE913E08D4200803956 /* en */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	D507D3081400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F416445F13E28240002CF5FC /* videos.png */;
+	};
+	D507D3091400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F416445E13E28240002CF5FC /* camera.png */;
+	};
+	D507D30A1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA3803EE13FDF1D600C0F019 /* CUMT Android.png */;
+	};
+	D507D30B1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA3803EF13FDF1D600C0F019 /* CUMT BB.png */;
+	};
+	D507D30C1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA3803F013FDF1D600C0F019 /* CUMT Nokia.png */;
+	};
+	D507D30D1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA3803F113FDF1D600C0F019 /* CUMT WP7.png */;
+	};
+	D507D30E1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA3803F213FDF1D600C0F019 /* CUMT Yamblet.png */;
+	};
+	D507D30F1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA65D3FE13FD696E009BA295 /* imagen_vacia.png */;
+	};
+	D507D3101400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA65D3FB13FD612D009BA295 /* mapa_cum4.png */;
+	};
+	D507D3111400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAEEA44213EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png */;
+	};
+	D507D3121400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BADE432E13E9A49900BEAB52 /* Default@2x.png */;
+	};
+	D507D3131400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F45D045F13EE7096000AE674 /* arrow.png */;
+	};
+	D507D3141400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAAE2C7513FDC0DB00FFCA39 /* CUMT Samsung.png */;
+	};
+	D507D3151400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAAE2C7613FDC0DB00FFCA39 /* CUMT Telcel.png */;
+	};
+	D507D3161400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BADE432C13E9A49000BEAB52 /* Default.png */;
+	};
+	D507D3191400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5D13E8CFF900186102 /* bt-CUMT-Multimedia.png */;
+	};
+	D507D31A1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5E13E8CFF900186102 /* bt-CUMT-Noticias.png */;
+	};
+	D507D31B1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5F13E8CFF900186102 /* bt-CUMT-Redes.png */;
+	};
+	D507D31C1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6013E8CFF900186102 /* bt-CUMT-Registro.png */;
+	};
+	D507D31D1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6113E8CFF900186102 /* CUMT fondo-09-12.png */;
+	};
+	D507D31E1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6213E8CFF900186102 /* CUMT splash-09.png */;
+	};
+	D507D31F1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6313E8CFF900186102 /* CUMT Web-app-13.png */;
+	};
+	D507D3201400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6413E8CFF900186102 /* CUMT Web-app-14.png */;
+	};
+	D507D3211400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6513E8CFF900186102 /* fondo_menuRaiz.png */;
+	};
+	D507D3221400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6713E8CFF900186102 /* icono-agenda.png */;
+	};
+	D507D3231400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6813E8CFF900186102 /* icono-appcircus.png */;
+	};
+	D507D3241400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6913E8CFF900186102 /* icono-ayuda.png */;
+	};
+	D507D3251400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6A13E8CFF900186102 /* icono-foto.png */;
+	};
+	D507D3261400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6B13E8CFF900186102 /* icono-inicio.png */;
+	};
+	D507D3271400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAAE2C7113FDBD8B00FFCA39 /* icono-acerca_de.png */;
+	};
+	D507D3281400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6C13E8CFF900186102 /* icono-jueves.png */;
+	};
+	D507D3291400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6D13E8CFF900186102 /* icono-jueves_30x30.png */;
+	};
+	D507D32A1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6E13E8CFF900186102 /* icono-lunes.png */;
+	};
+	D507D32B1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB6F13E8CFF900186102 /* icono-lunes_30x30.png */;
+	};
+	D507D32C1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7013E8CFF900186102 /* icono-mapas.png */;
+	};
+	D507D32D1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAAE2C7313FDBDA300FFCA39 /* icono-patrocinadores.png */;
+	};
+	D507D32E1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7113E8CFF900186102 /* icono-martes.png */;
+	};
+	D507D32F1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7213E8CFF900186102 /* icono-martes_30x30.png */;
+	};
+	D507D3301400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7313E8CFF900186102 /* icono-miercoles.png */;
+	};
+	D507D3321400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7513E8CFF900186102 /* icono-noticias.png */;
+	};
+	D507D3331400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7713E8CFF900186102 /* icono-redes.png */;
+	};
+	D507D3341400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7813E8CFF900186102 /* icono-registro.png */;
+	};
+	D507D3351400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7913E8CFF900186102 /* icono-viernes.png */;
+	};
+	D507D3381400599C00D4B778 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BAFA0EF413E08D4200803956 /* Congreso_Universitario_MovilViewController.h */;
+		name = "Congreso_Universitario_MovilViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 0;
+	};
+	D507D3391400599C00D4B778 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BAFA0EF513E08D4200803956 /* Congreso_Universitario_MovilViewController.m */;
+		name = "Congreso_Universitario_MovilViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 0;
+	};
+	D507D33A1400599C00D4B778 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BAFA0F3713E0AE4600803956 /* iphone_icon.png */;
+	};
+	D56F261613FF2D620008329A /* Congreso Universitario Movil */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Congreso Universitario Movil";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D56F262113FF2D800008329A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D56F262213FF2D800008329A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D56F273C13FF33A10008329A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F4DEB06A13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png */;
+	};
+	D56F275F13FF77E50008329A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BA4A991213E1F4DC000B8520 /* AppCircusViewController.m */;
+		name = "AppCircusViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	D56F276013FF77E50008329A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BA4A98ED13E1E7FC000B8520 /* AcercaDeViewController.m */;
+		name = "AcercaDeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 520;
+		vrLoc = 0;
+	};
+	D58022B814005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7D13E8CFF900186102 /* LOGO-blanco-sombra.png */;
+	};
+	D58022B914005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7A13E8CFF900186102 /* icono-viernes_30x30.png */;
+	};
+	D58022BA14005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7B13E8CFF900186102 /* LOGO CUMT app-11-10.png */;
+	};
+	D58022BB14005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7413E8CFF900186102 /* icono-miercoles_30x30.png */;
+	};
+	D58022BC14005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5C13E8CFF900186102 /* bt-CUMT-Buscador.png */;
+	};
+	D58022BD14005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7F13E8CFF900186102 /* LOGO-negro.png */;
+	};
+	D58022BE14005D3300DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7E13E8CFF900186102 /* LOGO-blanco.png */;
+	};
+	D58022E414005E4200DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB7C13E8CFF900186102 /* LOGO CUMT app-11-11.png */;
+	};
+	D58022E514005E4200DDED9F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BAFA0EEF13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m */;
+		name = "Congreso_Universitario_MovilAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 82;
+	};
+	D58023111400807100DDED9F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BAFA0EEE13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.h */;
+		name = "Congreso_Universitario_MovilAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 0;
+	};
+	D58023121400807100DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5B13E8CFF900186102 /* bt-CUMT-Agenda.png */;
+	};
+	D58023131400807100DDED9F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = BA6FDB5B13E8CFF900186102 /* bt-CUMT-Agenda.png */;
+	};
+	D5B2960014005A5D0075FD92 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = BAFA0EE713E08D4200803956 /* Congreso Universitario Movil-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/humbo/Desktop/Congreso Universitario Movil/Congreso Universitario Movil/Congreso Universitario Movil-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F45D03F413EB8731000AE674 /* DayCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {783, 1215}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 243}";
+		};
+	};
+}

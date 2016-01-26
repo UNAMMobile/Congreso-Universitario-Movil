@@ -1,0 +1,1055 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BA3803F313FDF1D600C0F019 /* CUMT Android.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3803EE13FDF1D600C0F019 /* CUMT Android.png */; };
+		BA3803F413FDF1D600C0F019 /* CUMT BB.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3803EF13FDF1D600C0F019 /* CUMT BB.png */; };
+		BA3803F513FDF1D600C0F019 /* CUMT Nokia.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3803F013FDF1D600C0F019 /* CUMT Nokia.png */; };
+		BA3803F613FDF1D600C0F019 /* CUMT WP7.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3803F113FDF1D600C0F019 /* CUMT WP7.png */; };
+		BA3803F713FDF1D600C0F019 /* CUMT Yamblet.png in Resources */ = {isa = PBXBuildFile; fileRef = BA3803F213FDF1D600C0F019 /* CUMT Yamblet.png */; };
+		BA4A98EF13E1E7FC000B8520 /* AcercaDeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A98ED13E1E7FC000B8520 /* AcercaDeViewController.m */; };
+		BA4A98F013E1E7FC000B8520 /* AcercaDeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A98EE13E1E7FC000B8520 /* AcercaDeViewController.xib */; };
+		BA4A98F613E1F1FA000B8520 /* Vista.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A98F413E1F1FA000B8520 /* Vista.m */; };
+		BA4A98FB13E1F3F2000B8520 /* PatrocinadoresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A98F913E1F3F2000B8520 /* PatrocinadoresViewController.m */; };
+		BA4A98FC13E1F3F2000B8520 /* PatrocinadoresViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A98FA13E1F3F2000B8520 /* PatrocinadoresViewController.xib */; };
+		BA4A990013E1F437000B8520 /* MultimediaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A98FE13E1F437000B8520 /* MultimediaViewController.m */; };
+		BA4A990113E1F437000B8520 /* MultimediaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A98FF13E1F437000B8520 /* MultimediaViewController.xib */; };
+		BA4A990513E1F45F000B8520 /* CalendarioViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A990313E1F45F000B8520 /* CalendarioViewController.m */; };
+		BA4A990613E1F45F000B8520 /* CalendarioViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A990413E1F45F000B8520 /* CalendarioViewController.xib */; };
+		BA4A990F13E1F4B9000B8520 /* NoticiasViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A990D13E1F4B9000B8520 /* NoticiasViewController.m */; };
+		BA4A991013E1F4B9000B8520 /* NoticiasViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A990E13E1F4B9000B8520 /* NoticiasViewController.xib */; };
+		BA4A991413E1F4DC000B8520 /* AppCircusViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A991213E1F4DC000B8520 /* AppCircusViewController.m */; };
+		BA4A991513E1F4DC000B8520 /* AppCircusViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A991313E1F4DC000B8520 /* AppCircusViewController.xib */; };
+		BA4A991913E1F4F6000B8520 /* RedesSocialesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A991713E1F4F6000B8520 /* RedesSocialesViewController.m */; };
+		BA4A991A13E1F4F6000B8520 /* RedesSocialesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A991813E1F4F6000B8520 /* RedesSocialesViewController.xib */; };
+		BA4A991E13E1F518000B8520 /* RegistroViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A991C13E1F518000B8520 /* RegistroViewController.m */; };
+		BA4A991F13E1F518000B8520 /* RegistroViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A991D13E1F518000B8520 /* RegistroViewController.xib */; };
+		BA4A992213E2004C000B8520 /* NavigationBarButtonImage.png in Resources */ = {isa = PBXBuildFile; fileRef = BA4A992113E2004C000B8520 /* NavigationBarButtonImage.png */; };
+		BA4A992613E20A58000B8520 /* SedeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA4A992413E20A58000B8520 /* SedeViewController.m */; };
+		BA4A992713E20A58000B8520 /* SedeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA4A992513E20A58000B8520 /* SedeViewController.xib */; };
+		BA4A992B13E21455000B8520 /* mundo.png in Resources */ = {isa = PBXBuildFile; fileRef = BA4A992A13E21455000B8520 /* mundo.png */; };
+		BA4A992E13E21D22000B8520 /* imagen.png in Resources */ = {isa = PBXBuildFile; fileRef = BA4A992D13E21D22000B8520 /* imagen.png */; };
+		BA65D3FC13FD612D009BA295 /* mapa_cum4.png in Resources */ = {isa = PBXBuildFile; fileRef = BA65D3FB13FD612D009BA295 /* mapa_cum4.png */; };
+		BA65D3FF13FD696E009BA295 /* imagen_vacia.png in Resources */ = {isa = PBXBuildFile; fileRef = BA65D3FE13FD696E009BA295 /* imagen_vacia.png */; };
+		BA6FDB8013E8CFF900186102 /* bt-CUMT-Agenda.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB5B13E8CFF900186102 /* bt-CUMT-Agenda.png */; };
+		BA6FDB8113E8CFF900186102 /* bt-CUMT-Buscador.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB5C13E8CFF900186102 /* bt-CUMT-Buscador.png */; };
+		BA6FDB8213E8CFF900186102 /* bt-CUMT-Multimedia.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB5D13E8CFF900186102 /* bt-CUMT-Multimedia.png */; };
+		BA6FDB8313E8CFF900186102 /* bt-CUMT-Noticias.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB5E13E8CFF900186102 /* bt-CUMT-Noticias.png */; };
+		BA6FDB8413E8CFF900186102 /* bt-CUMT-Redes.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB5F13E8CFF900186102 /* bt-CUMT-Redes.png */; };
+		BA6FDB8513E8CFF900186102 /* bt-CUMT-Registro.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6013E8CFF900186102 /* bt-CUMT-Registro.png */; };
+		BA6FDB8613E8CFF900186102 /* CUMT fondo-09-12.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6113E8CFF900186102 /* CUMT fondo-09-12.png */; };
+		BA6FDB8713E8CFF900186102 /* CUMT splash-09.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6213E8CFF900186102 /* CUMT splash-09.png */; };
+		BA6FDB8813E8CFF900186102 /* CUMT Web-app-13.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6313E8CFF900186102 /* CUMT Web-app-13.png */; };
+		BA6FDB8913E8CFF900186102 /* CUMT Web-app-14.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6413E8CFF900186102 /* CUMT Web-app-14.png */; };
+		BA6FDB8A13E8CFF900186102 /* fondo_menuRaiz.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6513E8CFF900186102 /* fondo_menuRaiz.png */; };
+		BA6FDB8C13E8CFF900186102 /* icono-agenda.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6713E8CFF900186102 /* icono-agenda.png */; };
+		BA6FDB8D13E8CFF900186102 /* icono-appcircus.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6813E8CFF900186102 /* icono-appcircus.png */; };
+		BA6FDB8E13E8CFF900186102 /* icono-ayuda.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6913E8CFF900186102 /* icono-ayuda.png */; };
+		BA6FDB8F13E8CFF900186102 /* icono-foto.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6A13E8CFF900186102 /* icono-foto.png */; };
+		BA6FDB9013E8CFF900186102 /* icono-inicio.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6B13E8CFF900186102 /* icono-inicio.png */; };
+		BA6FDB9113E8CFF900186102 /* icono-jueves.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6C13E8CFF900186102 /* icono-jueves.png */; };
+		BA6FDB9213E8CFF900186102 /* icono-jueves_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6D13E8CFF900186102 /* icono-jueves_30x30.png */; };
+		BA6FDB9313E8CFF900186102 /* icono-lunes.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6E13E8CFF900186102 /* icono-lunes.png */; };
+		BA6FDB9413E8CFF900186102 /* icono-lunes_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB6F13E8CFF900186102 /* icono-lunes_30x30.png */; };
+		BA6FDB9513E8CFF900186102 /* icono-mapas.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7013E8CFF900186102 /* icono-mapas.png */; };
+		BA6FDB9613E8CFF900186102 /* icono-martes.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7113E8CFF900186102 /* icono-martes.png */; };
+		BA6FDB9713E8CFF900186102 /* icono-martes_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7213E8CFF900186102 /* icono-martes_30x30.png */; };
+		BA6FDB9813E8CFF900186102 /* icono-miercoles.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7313E8CFF900186102 /* icono-miercoles.png */; };
+		BA6FDB9913E8CFF900186102 /* icono-miercoles_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7413E8CFF900186102 /* icono-miercoles_30x30.png */; };
+		BA6FDB9A13E8CFF900186102 /* icono-noticias.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7513E8CFF900186102 /* icono-noticias.png */; };
+		BA6FDB9C13E8CFF900186102 /* icono-redes.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7713E8CFF900186102 /* icono-redes.png */; };
+		BA6FDB9D13E8CFF900186102 /* icono-registro.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7813E8CFF900186102 /* icono-registro.png */; };
+		BA6FDB9E13E8CFF900186102 /* icono-viernes.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7913E8CFF900186102 /* icono-viernes.png */; };
+		BA6FDB9F13E8CFF900186102 /* icono-viernes_30x30.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7A13E8CFF900186102 /* icono-viernes_30x30.png */; };
+		BA6FDBA013E8CFF900186102 /* LOGO CUMT app-11-10.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7B13E8CFF900186102 /* LOGO CUMT app-11-10.png */; };
+		BA6FDBA113E8CFF900186102 /* LOGO CUMT app-11-11.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7C13E8CFF900186102 /* LOGO CUMT app-11-11.png */; };
+		BA6FDBA213E8CFF900186102 /* LOGO-blanco-sombra.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7D13E8CFF900186102 /* LOGO-blanco-sombra.png */; };
+		BA6FDBA313E8CFF900186102 /* LOGO-blanco.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7E13E8CFF900186102 /* LOGO-blanco.png */; };
+		BA6FDBA413E8CFF900186102 /* LOGO-negro.png in Resources */ = {isa = PBXBuildFile; fileRef = BA6FDB7F13E8CFF900186102 /* LOGO-negro.png */; };
+		BAAE2C7213FDBD8B00FFCA39 /* icono-acerca_de.png in Resources */ = {isa = PBXBuildFile; fileRef = BAAE2C7113FDBD8B00FFCA39 /* icono-acerca_de.png */; };
+		BAAE2C7413FDBDA300FFCA39 /* icono-patrocinadores.png in Resources */ = {isa = PBXBuildFile; fileRef = BAAE2C7313FDBDA300FFCA39 /* icono-patrocinadores.png */; };
+		BAAE2C7713FDC0DB00FFCA39 /* CUMT Samsung.png in Resources */ = {isa = PBXBuildFile; fileRef = BAAE2C7513FDC0DB00FFCA39 /* CUMT Samsung.png */; };
+		BAAE2C7813FDC0DB00FFCA39 /* CUMT Telcel.png in Resources */ = {isa = PBXBuildFile; fileRef = BAAE2C7613FDC0DB00FFCA39 /* CUMT Telcel.png */; };
+		BADE432D13E9A49100BEAB52 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = BADE432C13E9A49000BEAB52 /* Default.png */; };
+		BADE432F13E9A49A00BEAB52 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BADE432E13E9A49900BEAB52 /* Default@2x.png */; };
+		BAECE7F3140C1AB0007B2753 /* fondo_menuRaiz_con_logoB.png in Resources */ = {isa = PBXBuildFile; fileRef = BAECE7F2140C1AAF007B2753 /* fondo_menuRaiz_con_logoB.png */; };
+		BAEEA44313EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BAEEA44213EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png */; };
+		BAFA0EE013E08D4200803956 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EDF13E08D4200803956 /* UIKit.framework */; };
+		BAFA0EE213E08D4200803956 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EE113E08D4200803956 /* Foundation.framework */; };
+		BAFA0EE413E08D4200803956 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EE313E08D4200803956 /* CoreGraphics.framework */; };
+		BAFA0EEA13E08D4200803956 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0EE813E08D4200803956 /* InfoPlist.strings */; };
+		BAFA0EED13E08D4200803956 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BAFA0EEC13E08D4200803956 /* main.m */; };
+		BAFA0EF013E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BAFA0EEF13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m */; };
+		BAFA0EF313E08D4200803956 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0EF113E08D4200803956 /* MainWindow.xib */; };
+		BAFA0EF613E08D4200803956 /* Congreso_Universitario_MovilViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BAFA0EF513E08D4200803956 /* Congreso_Universitario_MovilViewController.m */; };
+		BAFA0EF913E08D4200803956 /* Congreso_Universitario_MovilViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0EF713E08D4200803956 /* Congreso_Universitario_MovilViewController.xib */; };
+		BAFA0F0013E08D4300803956 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EDF13E08D4200803956 /* UIKit.framework */; };
+		BAFA0F0113E08D4300803956 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EE113E08D4200803956 /* Foundation.framework */; };
+		BAFA0F0213E08D4300803956 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BAFA0EE313E08D4200803956 /* CoreGraphics.framework */; };
+		BAFA0F0A13E08D4300803956 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0F0813E08D4300803956 /* InfoPlist.strings */; };
+		BAFA0F0D13E08D4300803956 /* Congreso_Universitario_MovilTests.h in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0F0C13E08D4300803956 /* Congreso_Universitario_MovilTests.h */; };
+		BAFA0F0F13E08D4300803956 /* Congreso_Universitario_MovilTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BAFA0F0E13E08D4300803956 /* Congreso_Universitario_MovilTests.m */; };
+		BAFA0F3813E0AE4600803956 /* iphone_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BAFA0F3713E0AE4600803956 /* iphone_icon.png */; };
+		F40E399E13E66636004BD025 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F40E399D13E66636004BD025 /* CustomCell.m */; };
+		F416445613E262DC002CF5FC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F416445513E262DC002CF5FC /* MapKit.framework */; };
+		F416446013E28240002CF5FC /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = F416445E13E28240002CF5FC /* camera.png */; };
+		F416446113E28240002CF5FC /* videos.png in Resources */ = {isa = PBXBuildFile; fileRef = F416445F13E28240002CF5FC /* videos.png */; };
+		F45D03EE13EB6307000AE674 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F45D03ED13EB6307000AE674 /* SystemConfiguration.framework */; };
+		F45D03F213EB63D3000AE674 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = F45D03F013EB63D3000AE674 /* Reachability.m */; };
+		F45D03F513EB8731000AE674 /* DayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F45D03F413EB8731000AE674 /* DayCell.m */; };
+		F45D045113EE1C49000AE674 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F45D044F13EE1C49000AE674 /* WebViewController.m */; };
+		F45D045213EE1C49000AE674 /* WebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F45D045013EE1C49000AE674 /* WebViewController.xib */; };
+		F45D045B13EE1CA3000AE674 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F45D045913EE1C97000AE674 /* DetailsViewController.m */; };
+		F45D045C13EE1CA3000AE674 /* DetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F45D045A13EE1C9F000AE674 /* DetailsViewController.xib */; };
+		F45D046013EE7096000AE674 /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = F45D045F13EE7096000AE674 /* arrow.png */; };
+		F4DEB06913F383830081F18D /* LOGO CUMT app-11-11_114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = F4DEB06813F383830081F18D /* LOGO CUMT app-11-11_114x114.png */; };
+		F4DEB06B13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = F4DEB06A13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		BAFA0F0313E08D4300803956 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BAFA0ED213E08D4200803956 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BAFA0EDA13E08D4200803956;
+			remoteInfo = "Congreso Universitario Movil";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		BA3803EE13FDF1D600C0F019 /* CUMT Android.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Android.png"; sourceTree = "<group>"; };
+		BA3803EF13FDF1D600C0F019 /* CUMT BB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT BB.png"; sourceTree = "<group>"; };
+		BA3803F013FDF1D600C0F019 /* CUMT Nokia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Nokia.png"; sourceTree = "<group>"; };
+		BA3803F113FDF1D600C0F019 /* CUMT WP7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT WP7.png"; sourceTree = "<group>"; };
+		BA3803F213FDF1D600C0F019 /* CUMT Yamblet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Yamblet.png"; sourceTree = "<group>"; };
+		BA4A98EC13E1E7FC000B8520 /* AcercaDeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AcercaDeViewController.h; sourceTree = "<group>"; };
+		BA4A98ED13E1E7FC000B8520 /* AcercaDeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AcercaDeViewController.m; sourceTree = "<group>"; };
+		BA4A98EE13E1E7FC000B8520 /* AcercaDeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AcercaDeViewController.xib; sourceTree = "<group>"; };
+		BA4A98F313E1F1FA000B8520 /* Vista.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vista.h; sourceTree = "<group>"; };
+		BA4A98F413E1F1FA000B8520 /* Vista.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Vista.m; sourceTree = "<group>"; };
+		BA4A98F813E1F3F2000B8520 /* PatrocinadoresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatrocinadoresViewController.h; sourceTree = "<group>"; };
+		BA4A98F913E1F3F2000B8520 /* PatrocinadoresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatrocinadoresViewController.m; sourceTree = "<group>"; };
+		BA4A98FA13E1F3F2000B8520 /* PatrocinadoresViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PatrocinadoresViewController.xib; sourceTree = "<group>"; };
+		BA4A98FD13E1F437000B8520 /* MultimediaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MultimediaViewController.h; sourceTree = "<group>"; };
+		BA4A98FE13E1F437000B8520 /* MultimediaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MultimediaViewController.m; sourceTree = "<group>"; };
+		BA4A98FF13E1F437000B8520 /* MultimediaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MultimediaViewController.xib; sourceTree = "<group>"; };
+		BA4A990213E1F45F000B8520 /* CalendarioViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalendarioViewController.h; sourceTree = "<group>"; };
+		BA4A990313E1F45F000B8520 /* CalendarioViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalendarioViewController.m; sourceTree = "<group>"; };
+		BA4A990413E1F45F000B8520 /* CalendarioViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CalendarioViewController.xib; sourceTree = "<group>"; };
+		BA4A990C13E1F4B9000B8520 /* NoticiasViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NoticiasViewController.h; sourceTree = "<group>"; };
+		BA4A990D13E1F4B9000B8520 /* NoticiasViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NoticiasViewController.m; sourceTree = "<group>"; };
+		BA4A990E13E1F4B9000B8520 /* NoticiasViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NoticiasViewController.xib; sourceTree = "<group>"; };
+		BA4A991113E1F4DC000B8520 /* AppCircusViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppCircusViewController.h; sourceTree = "<group>"; };
+		BA4A991213E1F4DC000B8520 /* AppCircusViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppCircusViewController.m; sourceTree = "<group>"; };
+		BA4A991313E1F4DC000B8520 /* AppCircusViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AppCircusViewController.xib; sourceTree = "<group>"; };
+		BA4A991613E1F4F6000B8520 /* RedesSocialesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RedesSocialesViewController.h; sourceTree = "<group>"; };
+		BA4A991713E1F4F6000B8520 /* RedesSocialesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RedesSocialesViewController.m; sourceTree = "<group>"; };
+		BA4A991813E1F4F6000B8520 /* RedesSocialesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RedesSocialesViewController.xib; sourceTree = "<group>"; };
+		BA4A991B13E1F518000B8520 /* RegistroViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistroViewController.h; sourceTree = "<group>"; };
+		BA4A991C13E1F518000B8520 /* RegistroViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistroViewController.m; sourceTree = "<group>"; };
+		BA4A991D13E1F518000B8520 /* RegistroViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RegistroViewController.xib; sourceTree = "<group>"; };
+		BA4A992113E2004C000B8520 /* NavigationBarButtonImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NavigationBarButtonImage.png; sourceTree = "<group>"; };
+		BA4A992313E20A58000B8520 /* SedeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SedeViewController.h; sourceTree = "<group>"; };
+		BA4A992413E20A58000B8520 /* SedeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SedeViewController.m; sourceTree = "<group>"; };
+		BA4A992513E20A58000B8520 /* SedeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SedeViewController.xib; sourceTree = "<group>"; };
+		BA4A992A13E21455000B8520 /* mundo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mundo.png; sourceTree = "<group>"; };
+		BA4A992D13E21D22000B8520 /* imagen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imagen.png; sourceTree = "<group>"; };
+		BA65D3FB13FD612D009BA295 /* mapa_cum4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mapa_cum4.png; sourceTree = "<group>"; };
+		BA65D3FE13FD696E009BA295 /* imagen_vacia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imagen_vacia.png; sourceTree = "<group>"; };
+		BA6FDB5B13E8CFF900186102 /* bt-CUMT-Agenda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Agenda.png"; sourceTree = "<group>"; };
+		BA6FDB5C13E8CFF900186102 /* bt-CUMT-Buscador.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Buscador.png"; sourceTree = "<group>"; };
+		BA6FDB5D13E8CFF900186102 /* bt-CUMT-Multimedia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Multimedia.png"; sourceTree = "<group>"; };
+		BA6FDB5E13E8CFF900186102 /* bt-CUMT-Noticias.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Noticias.png"; sourceTree = "<group>"; };
+		BA6FDB5F13E8CFF900186102 /* bt-CUMT-Redes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Redes.png"; sourceTree = "<group>"; };
+		BA6FDB6013E8CFF900186102 /* bt-CUMT-Registro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bt-CUMT-Registro.png"; sourceTree = "<group>"; };
+		BA6FDB6113E8CFF900186102 /* CUMT fondo-09-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT fondo-09-12.png"; sourceTree = "<group>"; };
+		BA6FDB6213E8CFF900186102 /* CUMT splash-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT splash-09.png"; sourceTree = "<group>"; };
+		BA6FDB6313E8CFF900186102 /* CUMT Web-app-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Web-app-13.png"; sourceTree = "<group>"; };
+		BA6FDB6413E8CFF900186102 /* CUMT Web-app-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Web-app-14.png"; sourceTree = "<group>"; };
+		BA6FDB6513E8CFF900186102 /* fondo_menuRaiz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo_menuRaiz.png; sourceTree = "<group>"; };
+		BA6FDB6713E8CFF900186102 /* icono-agenda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-agenda.png"; sourceTree = "<group>"; };
+		BA6FDB6813E8CFF900186102 /* icono-appcircus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-appcircus.png"; sourceTree = "<group>"; };
+		BA6FDB6913E8CFF900186102 /* icono-ayuda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-ayuda.png"; sourceTree = "<group>"; };
+		BA6FDB6A13E8CFF900186102 /* icono-foto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-foto.png"; sourceTree = "<group>"; };
+		BA6FDB6B13E8CFF900186102 /* icono-inicio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-inicio.png"; sourceTree = "<group>"; };
+		BA6FDB6C13E8CFF900186102 /* icono-jueves.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-jueves.png"; sourceTree = "<group>"; };
+		BA6FDB6D13E8CFF900186102 /* icono-jueves_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-jueves_30x30.png"; sourceTree = "<group>"; };
+		BA6FDB6E13E8CFF900186102 /* icono-lunes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-lunes.png"; sourceTree = "<group>"; };
+		BA6FDB6F13E8CFF900186102 /* icono-lunes_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-lunes_30x30.png"; sourceTree = "<group>"; };
+		BA6FDB7013E8CFF900186102 /* icono-mapas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-mapas.png"; sourceTree = "<group>"; };
+		BA6FDB7113E8CFF900186102 /* icono-martes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-martes.png"; sourceTree = "<group>"; };
+		BA6FDB7213E8CFF900186102 /* icono-martes_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-martes_30x30.png"; sourceTree = "<group>"; };
+		BA6FDB7313E8CFF900186102 /* icono-miercoles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-miercoles.png"; sourceTree = "<group>"; };
+		BA6FDB7413E8CFF900186102 /* icono-miercoles_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-miercoles_30x30.png"; sourceTree = "<group>"; };
+		BA6FDB7513E8CFF900186102 /* icono-noticias.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-noticias.png"; sourceTree = "<group>"; };
+		BA6FDB7713E8CFF900186102 /* icono-redes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-redes.png"; sourceTree = "<group>"; };
+		BA6FDB7813E8CFF900186102 /* icono-registro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-registro.png"; sourceTree = "<group>"; };
+		BA6FDB7913E8CFF900186102 /* icono-viernes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-viernes.png"; sourceTree = "<group>"; };
+		BA6FDB7A13E8CFF900186102 /* icono-viernes_30x30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-viernes_30x30.png"; sourceTree = "<group>"; };
+		BA6FDB7B13E8CFF900186102 /* LOGO CUMT app-11-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO CUMT app-11-10.png"; sourceTree = "<group>"; };
+		BA6FDB7C13E8CFF900186102 /* LOGO CUMT app-11-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO CUMT app-11-11.png"; sourceTree = "<group>"; };
+		BA6FDB7D13E8CFF900186102 /* LOGO-blanco-sombra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO-blanco-sombra.png"; sourceTree = "<group>"; };
+		BA6FDB7E13E8CFF900186102 /* LOGO-blanco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO-blanco.png"; sourceTree = "<group>"; };
+		BA6FDB7F13E8CFF900186102 /* LOGO-negro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO-negro.png"; sourceTree = "<group>"; };
+		BAAE2C7113FDBD8B00FFCA39 /* icono-acerca_de.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-acerca_de.png"; sourceTree = "<group>"; };
+		BAAE2C7313FDBDA300FFCA39 /* icono-patrocinadores.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-patrocinadores.png"; sourceTree = "<group>"; };
+		BAAE2C7513FDC0DB00FFCA39 /* CUMT Samsung.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Samsung.png"; sourceTree = "<group>"; };
+		BAAE2C7613FDC0DB00FFCA39 /* CUMT Telcel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CUMT Telcel.png"; sourceTree = "<group>"; };
+		BADE432C13E9A49000BEAB52 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
+		BADE432E13E9A49900BEAB52 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../Default@2x.png"; sourceTree = "<group>"; };
+		BAECE7F2140C1AAF007B2753 /* fondo_menuRaiz_con_logoB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo_menuRaiz_con_logoB.png; sourceTree = "<group>"; };
+		BAEEA44213EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo_menuRaiz_con_logo.png; sourceTree = "<group>"; };
+		BAFA0EDB13E08D4200803956 /* CUMT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CUMT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAFA0EDF13E08D4200803956 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		BAFA0EE113E08D4200803956 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		BAFA0EE313E08D4200803956 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		BAFA0EE713E08D4200803956 /* Congreso Universitario Movil-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Congreso Universitario Movil-Info.plist"; sourceTree = "<group>"; };
+		BAFA0EE913E08D4200803956 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BAFA0EEB13E08D4200803956 /* Congreso Universitario Movil-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Congreso Universitario Movil-Prefix.pch"; sourceTree = "<group>"; };
+		BAFA0EEC13E08D4200803956 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BAFA0EEE13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Congreso_Universitario_MovilAppDelegate.h; sourceTree = "<group>"; };
+		BAFA0EEF13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Congreso_Universitario_MovilAppDelegate.m; sourceTree = "<group>"; };
+		BAFA0EF213E08D4200803956 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		BAFA0EF413E08D4200803956 /* Congreso_Universitario_MovilViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Congreso_Universitario_MovilViewController.h; sourceTree = "<group>"; };
+		BAFA0EF513E08D4200803956 /* Congreso_Universitario_MovilViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Congreso_Universitario_MovilViewController.m; sourceTree = "<group>"; };
+		BAFA0EF813E08D4200803956 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/Congreso_Universitario_MovilViewController.xib; sourceTree = "<group>"; };
+		BAFA0EFF13E08D4300803956 /* Congreso Universitario MovilTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Congreso Universitario MovilTests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BAFA0F0713E08D4300803956 /* Congreso Universitario MovilTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Congreso Universitario MovilTests-Info.plist"; sourceTree = "<group>"; };
+		BAFA0F0913E08D4300803956 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		BAFA0F0B13E08D4300803956 /* Congreso Universitario MovilTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Congreso Universitario MovilTests-Prefix.pch"; sourceTree = "<group>"; };
+		BAFA0F0C13E08D4300803956 /* Congreso_Universitario_MovilTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Congreso_Universitario_MovilTests.h; sourceTree = "<group>"; };
+		BAFA0F0E13E08D4300803956 /* Congreso_Universitario_MovilTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Congreso_Universitario_MovilTests.m; sourceTree = "<group>"; };
+		BAFA0F3713E0AE4600803956 /* iphone_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone_icon.png; sourceTree = "<group>"; };
+		F40E399C13E66636004BD025 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		F40E399D13E66636004BD025 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
+		F416445513E262DC002CF5FC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		F416445E13E28240002CF5FC /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		F416445F13E28240002CF5FC /* videos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = videos.png; sourceTree = "<group>"; };
+		F45D03ED13EB6307000AE674 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		F45D03F013EB63D3000AE674 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		F45D03F113EB63D3000AE674 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		F45D03F313EB8731000AE674 /* DayCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DayCell.h; sourceTree = "<group>"; };
+		F45D03F413EB8731000AE674 /* DayCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DayCell.m; sourceTree = "<group>"; };
+		F45D044E13EE1C48000AE674 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		F45D044F13EE1C49000AE674 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
+		F45D045013EE1C49000AE674 /* WebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WebViewController.xib; sourceTree = "<group>"; };
+		F45D045813EE1C96000AE674 /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DetailsViewController.h; path = "Congreso Universitario Movil.xcodeproj/DetailsViewController.h"; sourceTree = SOURCE_ROOT; };
+		F45D045913EE1C97000AE674 /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DetailsViewController.m; path = "Congreso Universitario Movil.xcodeproj/DetailsViewController.m"; sourceTree = SOURCE_ROOT; };
+		F45D045A13EE1C9F000AE674 /* DetailsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DetailsViewController.xib; path = "Congreso Universitario Movil.xcodeproj/DetailsViewController.xib"; sourceTree = SOURCE_ROOT; };
+		F45D045F13EE7096000AE674 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		F4DEB06513F381E30081F18D /* CUMT_twitter_114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CUMT_twitter_114.png; sourceTree = "<group>"; };
+		F4DEB06813F383830081F18D /* LOGO CUMT app-11-11_114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO CUMT app-11-11_114x114.png"; sourceTree = "<group>"; };
+		F4DEB06A13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LOGO CUMT app-11-11_57x57.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BAFA0ED813E08D4200803956 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F45D03EE13EB6307000AE674 /* SystemConfiguration.framework in Frameworks */,
+				F416445613E262DC002CF5FC /* MapKit.framework in Frameworks */,
+				BAFA0EE013E08D4200803956 /* UIKit.framework in Frameworks */,
+				BAFA0EE213E08D4200803956 /* Foundation.framework in Frameworks */,
+				BAFA0EE413E08D4200803956 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAFA0EFB13E08D4300803956 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAFA0F0013E08D4300803956 /* UIKit.framework in Frameworks */,
+				BAFA0F0113E08D4300803956 /* Foundation.framework in Frameworks */,
+				BAFA0F0213E08D4300803956 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BA4A98F213E1F1B5000B8520 /* Vistas */ = {
+			isa = PBXGroup;
+			children = (
+				F40E399B13E6660C004BD025 /* Custom Cells */,
+				BA4A992013E2002B000B8520 /* Imagenes */,
+				BA4A98F313E1F1FA000B8520 /* Vista.h */,
+				BA4A98F413E1F1FA000B8520 /* Vista.m */,
+				F45D044E13EE1C48000AE674 /* WebViewController.h */,
+				F45D044F13EE1C49000AE674 /* WebViewController.m */,
+				F45D045013EE1C49000AE674 /* WebViewController.xib */,
+				F45D045813EE1C96000AE674 /* DetailsViewController.h */,
+				F45D045913EE1C97000AE674 /* DetailsViewController.m */,
+				F45D045A13EE1C9F000AE674 /* DetailsViewController.xib */,
+			);
+			name = Vistas;
+			sourceTree = "<group>";
+		};
+		BA4A992013E2002B000B8520 /* Imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A992113E2004C000B8520 /* NavigationBarButtonImage.png */,
+			);
+			name = Imagenes;
+			sourceTree = "<group>";
+		};
+		BA4A992C13E2148C000B8520 /* Imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A992D13E21D22000B8520 /* imagen.png */,
+				BA4A992A13E21455000B8520 /* mundo.png */,
+			);
+			name = Imagenes;
+			sourceTree = "<group>";
+		};
+		BA6FDB5A13E8CFF800186102 /* Imagenes (Diseñador) */ = {
+			isa = PBXGroup;
+			children = (
+				BAECE7F2140C1AAF007B2753 /* fondo_menuRaiz_con_logoB.png */,
+				BA3803EE13FDF1D600C0F019 /* CUMT Android.png */,
+				BA3803EF13FDF1D600C0F019 /* CUMT BB.png */,
+				BA3803F013FDF1D600C0F019 /* CUMT Nokia.png */,
+				BA3803F113FDF1D600C0F019 /* CUMT WP7.png */,
+				BA3803F213FDF1D600C0F019 /* CUMT Yamblet.png */,
+				BA65D3FE13FD696E009BA295 /* imagen_vacia.png */,
+				BA65D3FB13FD612D009BA295 /* mapa_cum4.png */,
+				BAEEA44213EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png */,
+				BADE432E13E9A49900BEAB52 /* Default@2x.png */,
+				F45D045F13EE7096000AE674 /* arrow.png */,
+				BAAE2C7513FDC0DB00FFCA39 /* CUMT Samsung.png */,
+				BAAE2C7613FDC0DB00FFCA39 /* CUMT Telcel.png */,
+				BADE432C13E9A49000BEAB52 /* Default.png */,
+				BA6FDB5B13E8CFF900186102 /* bt-CUMT-Agenda.png */,
+				BA6FDB5C13E8CFF900186102 /* bt-CUMT-Buscador.png */,
+				BA6FDB5D13E8CFF900186102 /* bt-CUMT-Multimedia.png */,
+				BA6FDB5E13E8CFF900186102 /* bt-CUMT-Noticias.png */,
+				BA6FDB5F13E8CFF900186102 /* bt-CUMT-Redes.png */,
+				BA6FDB6013E8CFF900186102 /* bt-CUMT-Registro.png */,
+				BA6FDB6113E8CFF900186102 /* CUMT fondo-09-12.png */,
+				BA6FDB6213E8CFF900186102 /* CUMT splash-09.png */,
+				BA6FDB6313E8CFF900186102 /* CUMT Web-app-13.png */,
+				BA6FDB6413E8CFF900186102 /* CUMT Web-app-14.png */,
+				BA6FDB6513E8CFF900186102 /* fondo_menuRaiz.png */,
+				BA6FDB6713E8CFF900186102 /* icono-agenda.png */,
+				BA6FDB6813E8CFF900186102 /* icono-appcircus.png */,
+				BA6FDB6913E8CFF900186102 /* icono-ayuda.png */,
+				BA6FDB6A13E8CFF900186102 /* icono-foto.png */,
+				BA6FDB6B13E8CFF900186102 /* icono-inicio.png */,
+				BAAE2C7113FDBD8B00FFCA39 /* icono-acerca_de.png */,
+				BA6FDB6C13E8CFF900186102 /* icono-jueves.png */,
+				BA6FDB6D13E8CFF900186102 /* icono-jueves_30x30.png */,
+				BA6FDB6E13E8CFF900186102 /* icono-lunes.png */,
+				BA6FDB6F13E8CFF900186102 /* icono-lunes_30x30.png */,
+				BA6FDB7013E8CFF900186102 /* icono-mapas.png */,
+				BAAE2C7313FDBDA300FFCA39 /* icono-patrocinadores.png */,
+				BA6FDB7113E8CFF900186102 /* icono-martes.png */,
+				BA6FDB7213E8CFF900186102 /* icono-martes_30x30.png */,
+				BA6FDB7313E8CFF900186102 /* icono-miercoles.png */,
+				BA6FDB7413E8CFF900186102 /* icono-miercoles_30x30.png */,
+				BA6FDB7513E8CFF900186102 /* icono-noticias.png */,
+				BA6FDB7713E8CFF900186102 /* icono-redes.png */,
+				BA6FDB7813E8CFF900186102 /* icono-registro.png */,
+				BA6FDB7913E8CFF900186102 /* icono-viernes.png */,
+				BA6FDB7A13E8CFF900186102 /* icono-viernes_30x30.png */,
+				BA6FDB7B13E8CFF900186102 /* LOGO CUMT app-11-10.png */,
+				BA6FDB7C13E8CFF900186102 /* LOGO CUMT app-11-11.png */,
+				BA6FDB7D13E8CFF900186102 /* LOGO-blanco-sombra.png */,
+				BA6FDB7E13E8CFF900186102 /* LOGO-blanco.png */,
+				BA6FDB7F13E8CFF900186102 /* LOGO-negro.png */,
+			);
+			name = "Imagenes (Diseñador)";
+			path = "../CUMT app partes";
+			sourceTree = "<group>";
+		};
+		BAFA0ED013E08D4200803956 = {
+			isa = PBXGroup;
+			children = (
+				F4DEB06A13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png */,
+				F4DEB06813F383830081F18D /* LOGO CUMT app-11-11_114x114.png */,
+				F4DEB06513F381E30081F18D /* CUMT_twitter_114.png */,
+				BAFA0EE513E08D4200803956 /* Congreso Universitario Movil */,
+				BAFA0F0513E08D4300803956 /* Congreso Universitario MovilTests */,
+				BAFA0EDE13E08D4200803956 /* Frameworks */,
+				BAFA0EDC13E08D4200803956 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BAFA0EDC13E08D4200803956 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0EDB13E08D4200803956 /* CUMT.app */,
+				BAFA0EFF13E08D4300803956 /* Congreso Universitario MovilTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BAFA0EDE13E08D4200803956 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F45D03ED13EB6307000AE674 /* SystemConfiguration.framework */,
+				F416445513E262DC002CF5FC /* MapKit.framework */,
+				BAFA0EDF13E08D4200803956 /* UIKit.framework */,
+				BAFA0EE113E08D4200803956 /* Foundation.framework */,
+				BAFA0EE313E08D4200803956 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BAFA0EE513E08D4200803956 /* Congreso Universitario Movil */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0EEE13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.h */,
+				BAFA0EEF13E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m */,
+				BAFA0EF113E08D4200803956 /* MainWindow.xib */,
+				BAFA0F3513E0ADE800803956 /* Menu Raiz */,
+				BAFA0F3113E0A92E00803956 /* AppCircus */,
+				BA4A98F213E1F1B5000B8520 /* Vistas */,
+				BAFA0F3013E0A92A00803956 /* Noticias */,
+				BAFA0F3413E0A94700803956 /* Registro */,
+				BAFA0F2013E09D5A00803956 /* Redes Sociales */,
+				BAFA0F2F13E0A92800803956 /* Sede */,
+				BAFA0F2E13E0A92600803956 /* Calendario */,
+				BAFA0F2D13E0A92400803956 /* Multimedia */,
+				BAFA0F2C13E0A92100803956 /* Patrocinadores */,
+				BAFA0F2913E0A8F200803956 /* AcercaDe */,
+				BAFA0F1F13E09CB400803956 /* Other */,
+				BAFA0EE613E08D4200803956 /* Supporting Files */,
+			);
+			path = "Congreso Universitario Movil";
+			sourceTree = "<group>";
+		};
+		BAFA0EE613E08D4200803956 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0EE713E08D4200803956 /* Congreso Universitario Movil-Info.plist */,
+				BAFA0EE813E08D4200803956 /* InfoPlist.strings */,
+				BAFA0EEB13E08D4200803956 /* Congreso Universitario Movil-Prefix.pch */,
+				BAFA0EEC13E08D4200803956 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BAFA0F0513E08D4300803956 /* Congreso Universitario MovilTests */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0F0C13E08D4300803956 /* Congreso_Universitario_MovilTests.h */,
+				BAFA0F0E13E08D4300803956 /* Congreso_Universitario_MovilTests.m */,
+				BAFA0F0613E08D4300803956 /* Supporting Files */,
+			);
+			path = "Congreso Universitario MovilTests";
+			sourceTree = "<group>";
+		};
+		BAFA0F0613E08D4300803956 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0F0713E08D4300803956 /* Congreso Universitario MovilTests-Info.plist */,
+				BAFA0F0813E08D4300803956 /* InfoPlist.strings */,
+				BAFA0F0B13E08D4300803956 /* Congreso Universitario MovilTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BAFA0F1F13E09CB400803956 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				F45D03F113EB63D3000AE674 /* Reachability.h */,
+				F45D03F013EB63D3000AE674 /* Reachability.m */,
+				BAFA0F2813E0A0C500803956 /* info */,
+			);
+			name = Other;
+			sourceTree = "<group>";
+		};
+		BAFA0F2013E09D5A00803956 /* Redes Sociales */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A991613E1F4F6000B8520 /* RedesSocialesViewController.h */,
+				BA4A991713E1F4F6000B8520 /* RedesSocialesViewController.m */,
+				BA4A991813E1F4F6000B8520 /* RedesSocialesViewController.xib */,
+			);
+			name = "Redes Sociales";
+			sourceTree = "<group>";
+		};
+		BAFA0F2813E0A0C500803956 /* info */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = info;
+			sourceTree = "<group>";
+		};
+		BAFA0F2913E0A8F200803956 /* AcercaDe */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A98EC13E1E7FC000B8520 /* AcercaDeViewController.h */,
+				BA4A98ED13E1E7FC000B8520 /* AcercaDeViewController.m */,
+				BA4A98EE13E1E7FC000B8520 /* AcercaDeViewController.xib */,
+			);
+			name = AcercaDe;
+			sourceTree = "<group>";
+		};
+		BAFA0F2C13E0A92100803956 /* Patrocinadores */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A98F813E1F3F2000B8520 /* PatrocinadoresViewController.h */,
+				BA4A98F913E1F3F2000B8520 /* PatrocinadoresViewController.m */,
+				BA4A98FA13E1F3F2000B8520 /* PatrocinadoresViewController.xib */,
+			);
+			name = Patrocinadores;
+			sourceTree = "<group>";
+		};
+		BAFA0F2D13E0A92400803956 /* Multimedia */ = {
+			isa = PBXGroup;
+			children = (
+				F416445D13E2810C002CF5FC /* Imagenes */,
+				BA4A98FD13E1F437000B8520 /* MultimediaViewController.h */,
+				BA4A98FE13E1F437000B8520 /* MultimediaViewController.m */,
+				BA4A98FF13E1F437000B8520 /* MultimediaViewController.xib */,
+			);
+			name = Multimedia;
+			sourceTree = "<group>";
+		};
+		BAFA0F2E13E0A92600803956 /* Calendario */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A990213E1F45F000B8520 /* CalendarioViewController.h */,
+				BA4A990313E1F45F000B8520 /* CalendarioViewController.m */,
+				BA4A990413E1F45F000B8520 /* CalendarioViewController.xib */,
+			);
+			name = Calendario;
+			sourceTree = "<group>";
+		};
+		BAFA0F2F13E0A92800803956 /* Sede */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A992C13E2148C000B8520 /* Imagenes */,
+				BA4A992313E20A58000B8520 /* SedeViewController.h */,
+				BA4A992413E20A58000B8520 /* SedeViewController.m */,
+				BA4A992513E20A58000B8520 /* SedeViewController.xib */,
+			);
+			name = Sede;
+			sourceTree = "<group>";
+		};
+		BAFA0F3013E0A92A00803956 /* Noticias */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A990C13E1F4B9000B8520 /* NoticiasViewController.h */,
+				BA4A990D13E1F4B9000B8520 /* NoticiasViewController.m */,
+				BA4A990E13E1F4B9000B8520 /* NoticiasViewController.xib */,
+			);
+			name = Noticias;
+			sourceTree = "<group>";
+		};
+		BAFA0F3113E0A92E00803956 /* AppCircus */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A991113E1F4DC000B8520 /* AppCircusViewController.h */,
+				BA4A991213E1F4DC000B8520 /* AppCircusViewController.m */,
+				BA4A991313E1F4DC000B8520 /* AppCircusViewController.xib */,
+			);
+			name = AppCircus;
+			sourceTree = "<group>";
+		};
+		BAFA0F3413E0A94700803956 /* Registro */ = {
+			isa = PBXGroup;
+			children = (
+				BA4A991B13E1F518000B8520 /* RegistroViewController.h */,
+				BA4A991C13E1F518000B8520 /* RegistroViewController.m */,
+				BA4A991D13E1F518000B8520 /* RegistroViewController.xib */,
+			);
+			name = Registro;
+			sourceTree = "<group>";
+		};
+		BAFA0F3513E0ADE800803956 /* Menu Raiz */ = {
+			isa = PBXGroup;
+			children = (
+				BAFA0F3613E0AE1C00803956 /* Imagenes */,
+				BAFA0EF413E08D4200803956 /* Congreso_Universitario_MovilViewController.h */,
+				BAFA0EF513E08D4200803956 /* Congreso_Universitario_MovilViewController.m */,
+				BAFA0EF713E08D4200803956 /* Congreso_Universitario_MovilViewController.xib */,
+			);
+			name = "Menu Raiz";
+			sourceTree = "<group>";
+		};
+		BAFA0F3613E0AE1C00803956 /* Imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				BA6FDB5A13E8CFF800186102 /* Imagenes (Diseñador) */,
+				BAFA0F3713E0AE4600803956 /* iphone_icon.png */,
+			);
+			name = Imagenes;
+			sourceTree = "<group>";
+		};
+		F40E399B13E6660C004BD025 /* Custom Cells */ = {
+			isa = PBXGroup;
+			children = (
+				F40E399C13E66636004BD025 /* CustomCell.h */,
+				F40E399D13E66636004BD025 /* CustomCell.m */,
+				F45D03F313EB8731000AE674 /* DayCell.h */,
+				F45D03F413EB8731000AE674 /* DayCell.m */,
+			);
+			name = "Custom Cells";
+			sourceTree = "<group>";
+		};
+		F416445D13E2810C002CF5FC /* Imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				F416445E13E28240002CF5FC /* camera.png */,
+				F416445F13E28240002CF5FC /* videos.png */,
+			);
+			name = Imagenes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BAFA0F1213E08D4300803956 /* Build configuration list for PBXNativeTarget "Congreso Universitario Movil" */;
+			buildPhases = (
+				BAFA0ED713E08D4200803956 /* Sources */,
+				BAFA0ED813E08D4200803956 /* Frameworks */,
+				BAFA0ED913E08D4200803956 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Congreso Universitario Movil";
+			productName = "Congreso Universitario Movil";
+			productReference = BAFA0EDB13E08D4200803956 /* CUMT.app */;
+			productType = "com.apple.product-type.application";
+		};
+		BAFA0EFE13E08D4300803956 /* Congreso Universitario MovilTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BAFA0F1513E08D4300803956 /* Build configuration list for PBXNativeTarget "Congreso Universitario MovilTests" */;
+			buildPhases = (
+				BAFA0EFA13E08D4300803956 /* Sources */,
+				BAFA0EFB13E08D4300803956 /* Frameworks */,
+				BAFA0EFC13E08D4300803956 /* Resources */,
+				BAFA0EFD13E08D4300803956 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BAFA0F0413E08D4300803956 /* PBXTargetDependency */,
+			);
+			name = "Congreso Universitario MovilTests";
+			productName = "Congreso Universitario MovilTests";
+			productReference = BAFA0EFF13E08D4300803956 /* Congreso Universitario MovilTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BAFA0ED213E08D4200803956 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = BAFA0ED513E08D4200803956 /* Build configuration list for PBXProject "Congreso Universitario Movil" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = BAFA0ED013E08D4200803956;
+			productRefGroup = BAFA0EDC13E08D4200803956 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */,
+				BAFA0EFE13E08D4300803956 /* Congreso Universitario MovilTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BAFA0ED913E08D4200803956 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAFA0EEA13E08D4200803956 /* InfoPlist.strings in Resources */,
+				BAFA0EF313E08D4200803956 /* MainWindow.xib in Resources */,
+				BAFA0EF913E08D4200803956 /* Congreso_Universitario_MovilViewController.xib in Resources */,
+				BAFA0F3813E0AE4600803956 /* iphone_icon.png in Resources */,
+				BA4A98F013E1E7FC000B8520 /* AcercaDeViewController.xib in Resources */,
+				BA4A98FC13E1F3F2000B8520 /* PatrocinadoresViewController.xib in Resources */,
+				BA4A990113E1F437000B8520 /* MultimediaViewController.xib in Resources */,
+				BA4A990613E1F45F000B8520 /* CalendarioViewController.xib in Resources */,
+				BA4A991013E1F4B9000B8520 /* NoticiasViewController.xib in Resources */,
+				BA4A991513E1F4DC000B8520 /* AppCircusViewController.xib in Resources */,
+				BA4A991A13E1F4F6000B8520 /* RedesSocialesViewController.xib in Resources */,
+				BA4A991F13E1F518000B8520 /* RegistroViewController.xib in Resources */,
+				BA4A992213E2004C000B8520 /* NavigationBarButtonImage.png in Resources */,
+				BA4A992713E20A58000B8520 /* SedeViewController.xib in Resources */,
+				BA4A992B13E21455000B8520 /* mundo.png in Resources */,
+				BA4A992E13E21D22000B8520 /* imagen.png in Resources */,
+				F416446013E28240002CF5FC /* camera.png in Resources */,
+				F416446113E28240002CF5FC /* videos.png in Resources */,
+				BA6FDB8013E8CFF900186102 /* bt-CUMT-Agenda.png in Resources */,
+				BA6FDB8113E8CFF900186102 /* bt-CUMT-Buscador.png in Resources */,
+				BA6FDB8213E8CFF900186102 /* bt-CUMT-Multimedia.png in Resources */,
+				BA6FDB8313E8CFF900186102 /* bt-CUMT-Noticias.png in Resources */,
+				BA6FDB8413E8CFF900186102 /* bt-CUMT-Redes.png in Resources */,
+				BA6FDB8513E8CFF900186102 /* bt-CUMT-Registro.png in Resources */,
+				BA6FDB8613E8CFF900186102 /* CUMT fondo-09-12.png in Resources */,
+				BA6FDB8713E8CFF900186102 /* CUMT splash-09.png in Resources */,
+				BA6FDB8813E8CFF900186102 /* CUMT Web-app-13.png in Resources */,
+				BA6FDB8913E8CFF900186102 /* CUMT Web-app-14.png in Resources */,
+				BA6FDB8A13E8CFF900186102 /* fondo_menuRaiz.png in Resources */,
+				BA6FDB8C13E8CFF900186102 /* icono-agenda.png in Resources */,
+				BA6FDB8D13E8CFF900186102 /* icono-appcircus.png in Resources */,
+				BA6FDB8E13E8CFF900186102 /* icono-ayuda.png in Resources */,
+				BA6FDB8F13E8CFF900186102 /* icono-foto.png in Resources */,
+				BA6FDB9013E8CFF900186102 /* icono-inicio.png in Resources */,
+				BA6FDB9113E8CFF900186102 /* icono-jueves.png in Resources */,
+				BA6FDB9213E8CFF900186102 /* icono-jueves_30x30.png in Resources */,
+				BA6FDB9313E8CFF900186102 /* icono-lunes.png in Resources */,
+				BA6FDB9413E8CFF900186102 /* icono-lunes_30x30.png in Resources */,
+				BA6FDB9513E8CFF900186102 /* icono-mapas.png in Resources */,
+				BA6FDB9613E8CFF900186102 /* icono-martes.png in Resources */,
+				BA6FDB9713E8CFF900186102 /* icono-martes_30x30.png in Resources */,
+				BA6FDB9813E8CFF900186102 /* icono-miercoles.png in Resources */,
+				BA6FDB9913E8CFF900186102 /* icono-miercoles_30x30.png in Resources */,
+				BA6FDB9A13E8CFF900186102 /* icono-noticias.png in Resources */,
+				BA6FDB9C13E8CFF900186102 /* icono-redes.png in Resources */,
+				BA6FDB9D13E8CFF900186102 /* icono-registro.png in Resources */,
+				BA6FDB9E13E8CFF900186102 /* icono-viernes.png in Resources */,
+				BA6FDB9F13E8CFF900186102 /* icono-viernes_30x30.png in Resources */,
+				BA6FDBA013E8CFF900186102 /* LOGO CUMT app-11-10.png in Resources */,
+				BA6FDBA113E8CFF900186102 /* LOGO CUMT app-11-11.png in Resources */,
+				BA6FDBA213E8CFF900186102 /* LOGO-blanco-sombra.png in Resources */,
+				BA6FDBA313E8CFF900186102 /* LOGO-blanco.png in Resources */,
+				BA6FDBA413E8CFF900186102 /* LOGO-negro.png in Resources */,
+				BADE432D13E9A49100BEAB52 /* Default.png in Resources */,
+				BADE432F13E9A49A00BEAB52 /* Default@2x.png in Resources */,
+				BAEEA44313EC66DD000EDD6C /* fondo_menuRaiz_con_logo.png in Resources */,
+				F45D045213EE1C49000AE674 /* WebViewController.xib in Resources */,
+				F45D045C13EE1CA3000AE674 /* DetailsViewController.xib in Resources */,
+				F45D046013EE7096000AE674 /* arrow.png in Resources */,
+				F4DEB06913F383830081F18D /* LOGO CUMT app-11-11_114x114.png in Resources */,
+				F4DEB06B13F383B40081F18D /* LOGO CUMT app-11-11_57x57.png in Resources */,
+				BA65D3FC13FD612D009BA295 /* mapa_cum4.png in Resources */,
+				BA65D3FF13FD696E009BA295 /* imagen_vacia.png in Resources */,
+				BAAE2C7213FDBD8B00FFCA39 /* icono-acerca_de.png in Resources */,
+				BAAE2C7413FDBDA300FFCA39 /* icono-patrocinadores.png in Resources */,
+				BAAE2C7713FDC0DB00FFCA39 /* CUMT Samsung.png in Resources */,
+				BAAE2C7813FDC0DB00FFCA39 /* CUMT Telcel.png in Resources */,
+				BA3803F313FDF1D600C0F019 /* CUMT Android.png in Resources */,
+				BA3803F413FDF1D600C0F019 /* CUMT BB.png in Resources */,
+				BA3803F513FDF1D600C0F019 /* CUMT Nokia.png in Resources */,
+				BA3803F613FDF1D600C0F019 /* CUMT WP7.png in Resources */,
+				BA3803F713FDF1D600C0F019 /* CUMT Yamblet.png in Resources */,
+				BAECE7F3140C1AB0007B2753 /* fondo_menuRaiz_con_logoB.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAFA0EFC13E08D4300803956 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAFA0F0A13E08D4300803956 /* InfoPlist.strings in Resources */,
+				BAFA0F0D13E08D4300803956 /* Congreso_Universitario_MovilTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		BAFA0EFD13E08D4300803956 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BAFA0ED713E08D4200803956 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAFA0EED13E08D4200803956 /* main.m in Sources */,
+				BAFA0EF013E08D4200803956 /* Congreso_Universitario_MovilAppDelegate.m in Sources */,
+				BAFA0EF613E08D4200803956 /* Congreso_Universitario_MovilViewController.m in Sources */,
+				BA4A98EF13E1E7FC000B8520 /* AcercaDeViewController.m in Sources */,
+				BA4A98F613E1F1FA000B8520 /* Vista.m in Sources */,
+				BA4A98FB13E1F3F2000B8520 /* PatrocinadoresViewController.m in Sources */,
+				BA4A990013E1F437000B8520 /* MultimediaViewController.m in Sources */,
+				BA4A990513E1F45F000B8520 /* CalendarioViewController.m in Sources */,
+				BA4A990F13E1F4B9000B8520 /* NoticiasViewController.m in Sources */,
+				BA4A991413E1F4DC000B8520 /* AppCircusViewController.m in Sources */,
+				BA4A991913E1F4F6000B8520 /* RedesSocialesViewController.m in Sources */,
+				BA4A991E13E1F518000B8520 /* RegistroViewController.m in Sources */,
+				BA4A992613E20A58000B8520 /* SedeViewController.m in Sources */,
+				F40E399E13E66636004BD025 /* CustomCell.m in Sources */,
+				F45D03F213EB63D3000AE674 /* Reachability.m in Sources */,
+				F45D03F513EB8731000AE674 /* DayCell.m in Sources */,
+				F45D045113EE1C49000AE674 /* WebViewController.m in Sources */,
+				F45D045B13EE1CA3000AE674 /* DetailsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BAFA0EFA13E08D4300803956 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BAFA0F0F13E08D4300803956 /* Congreso_Universitario_MovilTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		BAFA0F0413E08D4300803956 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */;
+			targetProxy = BAFA0F0313E08D4300803956 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		BAFA0EE813E08D4200803956 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BAFA0EE913E08D4200803956 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		BAFA0EF113E08D4200803956 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BAFA0EF213E08D4200803956 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		BAFA0EF713E08D4200803956 /* Congreso_Universitario_MovilViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BAFA0EF813E08D4200803956 /* en */,
+			);
+			name = Congreso_Universitario_MovilViewController.xib;
+			sourceTree = "<group>";
+		};
+		BAFA0F0813E08D4300803956 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BAFA0F0913E08D4300803956 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BAFA0F1013E08D4300803956 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ROBERTO C PINEDA CARRILLO (ZX6Q5KL87N)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "5BE9E2BE-3971-4D5C-983B-B2C5391ECEBC";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		BAFA0F1113E08D4300803956 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		BAFA0F1313E08D4300803956 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario Movil/Congreso Universitario Movil-Prefix.pch";
+				GCC_VERSION = 4.2;
+				INFOPLIST_FILE = "Congreso Universitario Movil/Congreso Universitario Movil-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				PRODUCT_NAME = CUMT;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		BAFA0F1413E08D4300803956 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario Movil/Congreso Universitario Movil-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "Congreso Universitario Movil/Congreso Universitario Movil-Info.plist";
+				PRODUCT_NAME = CUMT;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		BAFA0F1613E08D4300803956 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Congreso Universitario Movil.app/Congreso Universitario Movil";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch";
+				INFOPLIST_FILE = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "Congreso Universitario MovilTests";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		BAFA0F1713E08D4300803956 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Congreso Universitario Movil.app/Congreso Universitario Movil";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch";
+				INFOPLIST_FILE = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "Congreso Universitario MovilTests";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+		D58022E114005E4200DDED9F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ROBERTO C PINEDA CARRILLO";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2850BBAB-DA65-4CB4-922E-9CC0E32C03DE";
+				SDKROOT = iphoneos;
+			};
+			name = Distribution;
+		};
+		D58022E214005E4200DDED9F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: ROBERTO C PINEDA CARRILLO";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario Movil/Congreso Universitario Movil-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				INFOPLIST_FILE = "Congreso Universitario Movil/Congreso Universitario Movil-Info.plist";
+				PRODUCT_NAME = CUMT;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "2850BBAB-DA65-4CB4-922E-9CC0E32C03DE";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		D58022E314005E4200DDED9F /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Congreso Universitario Movil.app/Congreso Universitario Movil";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Prefix.pch";
+				INFOPLIST_FILE = "Congreso Universitario MovilTests/Congreso Universitario MovilTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "Congreso Universitario MovilTests";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BAFA0ED513E08D4200803956 /* Build configuration list for PBXProject "Congreso Universitario Movil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAFA0F1013E08D4300803956 /* Debug */,
+				BAFA0F1113E08D4300803956 /* Release */,
+				D58022E114005E4200DDED9F /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BAFA0F1213E08D4300803956 /* Build configuration list for PBXNativeTarget "Congreso Universitario Movil" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAFA0F1313E08D4300803956 /* Debug */,
+				BAFA0F1413E08D4300803956 /* Release */,
+				D58022E214005E4200DDED9F /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BAFA0F1513E08D4300803956 /* Build configuration list for PBXNativeTarget "Congreso Universitario MovilTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BAFA0F1613E08D4300803956 /* Debug */,
+				BAFA0F1713E08D4300803956 /* Release */,
+				D58022E314005E4200DDED9F /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BAFA0ED213E08D4200803956 /* Project object */;
+}

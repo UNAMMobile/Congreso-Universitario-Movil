@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	BA665C9614C49CC500BCCE5A /* Congreso Universitario Movil */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Congreso Universitario Movil";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	BA665CAC14C49CCC00BCCE5A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BA665CAD14C49CCC00BCCE5A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BAFA0ED213E08D4200803956 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = BA665C9614C49CC500BCCE5A /* Congreso Universitario Movil */;
+		activeTarget = BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */;
+		codeSenseManager = BA665CAD14C49CCC00BCCE5A /* Code sense */;
+		executables = (
+			BA665C9614C49CC500BCCE5A /* Congreso Universitario Movil */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 348512396;
+			PBXWorkspaceStateSaveDate = 348512396;
+		};
+		sourceControlManager = BA665CAC14C49CCC00BCCE5A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	BAFA0EDA13E08D4200803956 /* Congreso Universitario Movil */ = {
+		activeExec = 0;
+		executables = (
+			BA665C9614C49CC500BCCE5A /* Congreso Universitario Movil */,
+		);
+	};
+	BAFA0EFE13E08D4300803956 /* Congreso Universitario MovilTests */ = {
+		activeExec = 0;
+	};
+}
